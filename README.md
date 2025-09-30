@@ -59,9 +59,9 @@ Se o tempo limite for ultrapassado, o jogador perde a partida.
 
 ## Autores
 
-**[Artur Pere dos Santos](https://github.com/Artur-Peres)**
+**[Artur Peres dos Santos](https://github.com/Artur-Peres)**
 
-[Nome do Integrante 2]
+[Jonatham Alves Araujo](hhtps://github.com/JonathamAraujo)
 
 [Nome do Integrante 3]
 
