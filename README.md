@@ -61,7 +61,7 @@ Se o tempo limite for ultrapassado, o jogador perde a partida.
 
 **[Artur Peres dos Santos](https://github.com/Artur-Peres)**
 
-[Jonatham Alves Araujo](hhtps://github.com/JonathamAraujo)
+[Jonatham Alves Araujo](https://github.com/JonathamAraujo)
 
 [Nome do Integrante 3]
 
