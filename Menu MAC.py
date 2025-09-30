@@ -1,6 +1,6 @@
 def titulo():
     print("-"*30)
-    print("     LABIRINTO DE COBRINHA       ")
+    print("     ESCAPE DO LABIRINTO       ")
     print("-"*30)
     return 
 titulo()
@@ -12,5 +12,6 @@ def inicio():
     return
 inicio()
 nivel=input("Selecione a Dificuldade (Fácil/Médio/Difícil): ").upper()
+
 
 
