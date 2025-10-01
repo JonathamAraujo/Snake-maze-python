@@ -7,11 +7,12 @@ titulo()
 
 def inicio():
     print("-"*30)
-    print("             JOGAR          ")
+    nivel=input("Selecione a Dificuldade (Fácil/Médio/Difícil): ").upper()
     print("-"*30)
     return
 inicio()
-nivel=input("Selecione a Dificuldade (Fácil/Médio/Difícil): ").upper()
+
+
 
 
 
