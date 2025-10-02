@@ -63,5 +63,5 @@ Se o tempo limite for ultrapassado, o jogador perde a partida.
 
 [Jonatham Alves Araujo](https://github.com/JonathamAraujo)
 
-[Nome do Integrante 3]
+[Ana Beatriz Ferreira Cavalcante](https://github.com/Anab-Cavalcante)
 
